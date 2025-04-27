@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-this is bugfix file for master branch
-======
-this is bugfix file for master branch
->>>>>>> bug1
+
+this is the new bugfix file 
